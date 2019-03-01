@@ -2,7 +2,7 @@ import discord
 import sys
 from io import StringIO
 
-TOKEN = 'NTQ2NDAyOTM1NzE0NzQyMzAy.D0ns-Q.HQNLSDiBjMvv5Bn5iKx82bjI-CM'
+TOKEN = ''
 
 client = discord.Client()
 
